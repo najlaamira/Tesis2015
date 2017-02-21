@@ -1,2 +1,4 @@
-# Tesis2015
-Repositorio donde se encontrará todo lo relacionado a mi tesis de licenciatura.
+# Trabajo final de licenciatura de Najla Ochoa
+
+Repositorio donde se encontrará todo lo relacionado con mi documento para término de licenciatura.
+
